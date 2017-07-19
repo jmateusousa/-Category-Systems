@@ -3,7 +3,6 @@
 The project must implement the following features:
 
 - Python >= 3.5 and Django >= 1.10.
-- PEP-8 for code style.
 - The data should be stored in a relational database.
 
 ## Category-Systems
