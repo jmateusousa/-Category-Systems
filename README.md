@@ -13,7 +13,7 @@ Implementation the a system of categories and subcategories for e-commerce, blog
 ## First
 
 - You must upload a .csv file with the following category information.
-
+```
 Books
 Books / National Literature
 Books / Foreign Literature
@@ -26,6 +26,8 @@ Computers
 Computers / Notebooks
 Computers / Tablets
 Computers / Desktop
+:
+```
 
 ## Then do it
 
