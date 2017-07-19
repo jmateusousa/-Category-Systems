@@ -26,7 +26,7 @@ Computers
 Computers / Notebooks
 Computers / Tablets
 Computers / Desktop
-:
+
 ```
 
 ## Then do it
